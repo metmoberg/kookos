@@ -22,3 +22,8 @@ background-color: rgb(240,240,240);
 H3 {
 Background-color:pink;
 }
+
+var colors = ['red', 'black', 'blue', 'green', 'orange', 'yellow']; var index = 0;
+var switcher = function() { document.body.style.backgroundColor = colors[index]; index++; if (index >= colors.length) { index = 0; } };
+var looper = function() { setTimeout(function() { switcher(); looper(); }, 500); };
+looper();
