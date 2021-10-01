@@ -27,4 +27,10 @@ body {
         border-color: turquoise;
     }
 
-    
+    button {
+        border: dotted;
+        color:black;
+        background-color: white;
+        font-size: 12px;
+         black;
+    }
