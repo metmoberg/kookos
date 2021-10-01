@@ -1,6 +1,6 @@
 body { 
-    color:white;
-    background-color:black; 
+    color:black;
+    background-color:peachpuff; 
     }
 
 
@@ -11,4 +11,19 @@ body {
 
     p {
         font-size: 12px
+    }
+
+    li {
+        list-style-type: circle;
+    }
+
+    div {
+        color: black;
+        background-color: rgb(255, 255, 255);
+    }
+
+    .reunus {
+        border-style: dotted;
+        border-width: 2px;
+        border-color: turquoise;
     }
