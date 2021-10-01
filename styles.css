@@ -9,12 +9,9 @@ body {
          }
     
 
-    p {
-        font-size: 12px
-    }
-
-    li {
-        list-style-type: circle;
+    P1 {
+        font-size: 12px;
+        color:olive;
     }
 
     div {
@@ -27,3 +24,5 @@ body {
         border-width: 2px;
         border-color: turquoise;
     }
+
+    
