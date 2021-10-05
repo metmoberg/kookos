@@ -13,10 +13,14 @@ header {
 li {
     list-style-type:none;
     margin: 0 2vw;
+    font-size: 3vh;
 }
 
 a {
     text-decoration: none;
+    color:black;
+    padding: 2vw;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 nav {
