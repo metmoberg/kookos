@@ -4,6 +4,8 @@ header {
     border: black;
     border-style: groove;
 }
+h1 {text-align: center;}
+p {text-align: center;}
 
 body {
     background-color: papayawhip;
