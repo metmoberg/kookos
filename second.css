@@ -8,3 +8,8 @@ header {
 body {
     background-color: papayawhip;
 }
+
+p{
+    background-color: white;
+    border-style: rounded;
+}
