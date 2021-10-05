@@ -31,6 +31,8 @@ a:hover {
 nav {
     width:100vw;
     background-color:khaki;
+    border-style:solid;
+    border-color: black;
 }
 
 ul{
