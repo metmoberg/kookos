@@ -28,6 +28,7 @@ a {
 
 a:hover {
     background-color:rgb(247, 141, 194);
+    text-align: center;
 }
 
 nav {
