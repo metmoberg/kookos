@@ -21,6 +21,11 @@ a {
     color:black;
     padding: 2vw;
     font-family: 'Courier New', Courier, monospace;
+    display: block;
+}
+
+a:hover {
+    background-color: darkgreen;
 }
 
 nav {
@@ -32,7 +37,9 @@ ul{
     margin: 0;
     padding:0;
     display: flex;
+    flex-direction: column;
 }
+
 
 body{
     margin:0;
