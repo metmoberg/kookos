@@ -63,3 +63,10 @@ p1{
     font-style: italic;
     font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
+
+p2{
+    text-align: right;
+    color: maroon;
+    font-style: initial;
+    font-family: fantasy;
+}
