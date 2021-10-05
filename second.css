@@ -15,7 +15,7 @@ body {
 
 p{
     background-color: white;
-    border-style: rounded;
+    border-style:dotted
     padding: 20px;
     margin: 30px;
 }
