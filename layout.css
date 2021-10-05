@@ -9,3 +9,7 @@ header {
     border: blue;
     border-style: dotted;
 }
+
+li {
+    list-style-type:none;
+}
