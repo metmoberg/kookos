@@ -12,6 +12,7 @@ header {
 
 li {
     list-style-type:none;
+    margin: 0 2vw;
 }
 
 a {
