@@ -20,22 +20,3 @@ p{
     margin: 30px;
 }
 
-.header {
-    position: relative;
-    top: 0%;
-    height: 20%;
-    }
-    /*Header CSS*/
-    img#ttl {
-    position: relative;
-    top:50%;
-    height: 50%;
-    left: 0px;
-    }
-    img#se {
-    position: relative;
-    top:60%;
-    height:30%;
-    vertical-align:right;
-    margin-right: 2%;
-    }
