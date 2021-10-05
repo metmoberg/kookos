@@ -1,6 +1,8 @@
 header {
     color:black;
     background-color: darkseagreen;
+    border: black;
+    border-style: groove;
 }
 
 body {
