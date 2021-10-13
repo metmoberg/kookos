@@ -34,3 +34,9 @@ body {
         font-size: 12px;
          black;
     }
+
+    li {
+        text-align: left;
+       vertical-align: text-top;
+        
+    }
