@@ -1,0 +1,60 @@
+header {
+    color:black;
+    background-color: darkseagreen;
+    border: black;
+    border-style: groove;
+}
+h1 {text-align: center;}
+p {text-align: center;}
+
+img{align-items: center;}
+
+body {
+    background-color: papayawhip;
+}
+
+p{
+    background-color: white;
+    border-style:rounded;
+    padding: 20px;
+    margin: 30px;
+}
+
+.images container{
+    display: flex;
+    justify-content: center;
+}
+
+nav {
+    float: left;
+    color: black;
+    font-size: 25px;
+    background-color:lightblue;
+    border-style: double;
+    border-width: thick;
+    border-color: white;
+    width: 30%;
+}
+
+li {
+    list-style-type: none;
+    margin: 4vw;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    background-color:skyblue;
+}
+
+main {
+    float: left;
+    width: 60%;
+    background-color: lavenderblush;
+    border-color: black;
+    border-style: dotted;
+    border-width: thick;
+    padding: 10px;
+}
