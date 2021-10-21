@@ -17,11 +17,19 @@ body {
     background-color:mistyrose;
 }
 
-img {
-    border-radius: 0%
+div {
+    border: 20px white;
 }
 
 #mm {
     border-radius: 50%;
     width: 80%;
+}
+
+#ff {
+    border: turquoise;
+}
+
+a {
+    color: white;
 }

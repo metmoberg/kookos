@@ -17,15 +17,46 @@ body {
 
 #lol {
     width: 72%;
-    border: 1px dotted black;
+    border: 1px double black;
     border-width: 10px;
 }
 
 #grr {
-    background-color: white;
-    border-color: tomato;
+    border-color:black;
     border-style: dotted;
-    border-width: 20%;
-   
+    border-width: 5px;
+    background-color: white;
+}
+
+#bob {
+  border: 5px;
+    border-color:black;
+    border-style:dotted;
+    background-color: white;
+}
+    
+#ded {
+    border: double black;
+    border-width: 10px;
+    width: 72%;
+}
+
+#hop {
+    border: double black;
+    border-width: 10px;
+    width: 72%;
+}
+
+#eek {
+    background-color: white;
+    border-color:   black;
+    border: dotted 5px
+
+}
+
+h2 {
+    color: black;
+    font-family: initial;
+    text-align: center;
 }
 
