@@ -17,6 +17,8 @@ body {
 
 #lol {
     width: 72%;
+    border: 1px dotted black;
+    border-width: 10px;
 }
 
 #grr {
@@ -24,5 +26,6 @@ body {
     border-color: tomato;
     border-style: dotted;
     border-width: 20%;
+   
 }
 
