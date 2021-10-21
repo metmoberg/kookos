@@ -1,0 +1,28 @@
+nav {
+    background-color: rosybrown;
+    color:white;
+    font-family:monospace;
+    font-weight: 100;
+}
+
+h1 {
+    color: darkblue;
+    font-family: cursive;
+    text-align: center;
+}
+
+body {
+    background-color:mistyrose;
+}
+
+#lol {
+    width: 72%;
+}
+
+#grr {
+    background-color: white;
+    border-color: tomato;
+    border-style: dotted;
+    border-width: 20%;
+}
+

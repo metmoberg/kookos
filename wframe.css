@@ -1,0 +1,27 @@
+h1 {
+    color: darkblue;
+    font-family: cursive;
+    text-align: center;
+}
+
+nav {
+    background-color: rosybrown;
+    color:white;
+    font-family:monospace;
+    font-weight: 100;
+}
+
+
+
+body {
+    background-color:mistyrose;
+}
+
+img {
+    border-radius: 0%
+}
+
+#mm {
+    border-radius: 50%;
+    width: 80%;
+}
