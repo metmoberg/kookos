@@ -23,13 +23,36 @@ div {
 
 #mm {
     border-radius: 50%;
-    width: 80%;
+    width: 40%;
+    border-style:inset;
+    border-color: gainsboro;
+    float: right;
 }
 
 #ff {
-    border: turquoise;
+    border-style: groove;
+    border-width: 5px;
+    border-color: gainsboro;
 }
 
+#aaa {
+    border-style: groove;
+    border-width: 5px;
+    border-color: gainsboro;
+    }
+
+#ggg {
+    border-style: groove;
+    border-width: 5px;
+    border-color: gainsboro;
+}
 a {
     color: white;
+}
+
+p {
+    background-color:rosybrown;
+    border-style: groove;
+    color: white;
+    font-family: monospace;
 }
