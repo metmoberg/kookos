@@ -5,14 +5,12 @@ nav {
 }
 
 #fafa {
-  border-radius:50%;
   border-width: 10px;
   border-style: groove;
   border-color: lightcoral;
 }
 
 #ggg {
-    width: 80%;
     border: salmon;
     border-style: dotted;
     border-width: 10px;
