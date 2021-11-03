@@ -1,0 +1,46 @@
+caption {
+    display: table-caption;
+    text-align: center;
+  }
+
+table {
+    border: 5px;
+    border-style: double;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: aquamarine;
+}
+
+td {
+    background-color:mintcream;
+}
+
+th,
+td {
+  width: 150px;
+  text-align: center;
+  border: 1px solid black;
+  padding: 5px;
+  font-family: monospace;
+}
+
+h2 {
+    color: rosybrown;
+    font-style: oblique;
+    font-family: cursive;
+}
+
+
+
+#submit {
+    background-color:rosybrown;
+    color: white;
+    border-style: solid;
+    border-color: black;
+  }
+
+body {
+    background-color: cornsilk;
+}
