@@ -1,10 +1,10 @@
 h1 {
-    text-shadow: 4px 2px black;
+    text-shadow: 4px 2px pink;
     color: white;
   }
 
 body {
-    background-color: rosybrown;
+    background-color:black;
 }
 
 p {
@@ -53,3 +53,9 @@ a:hover {
     text-align: center;
   
 }
+@media screen and (max-width: 600px) {
+    body {
+      background-color:red;
+    }
+  }
+  
