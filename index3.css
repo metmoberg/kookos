@@ -1,0 +1,63 @@
+a {
+    color: white;
+}
+
+nav {
+    background-color: rosybrown;
+    color:white;
+    font-family:monospace;
+    font-weight: 100;
+}
+
+h1 {
+    color: darkblue;
+    font-family: cursive;
+    text-align: center;
+}
+
+body {
+    background-color:mistyrose;
+}
+
+h2 {
+    color: black;
+    font-family: initial;
+    text-align: center;
+}
+
+#hhh {
+    width: 10%;
+}
+
+#quak {
+   background-color: rosybrown;
+   border-style: double;
+   border-color: black;
+   border-width: 5px;
+   color: white;
+}
+
+#dodo {
+    background-color: rosybrown;
+    border-style: double;
+    border-color: black;
+    border-width: 5px;
+    color: white;
+}
+
+#fafa {
+    background-color: rosybrown;
+    border-style: double;
+    border-color: black;
+    border-width: 5px;
+    color: white;
+}
+
+#pop {
+    background-color: rosybrown;
+    border-style: double;
+    border-color: black;
+    border-width: 5px;
+    color: white;
+}
+
