@@ -1,0 +1,66 @@
+h1 {
+    color: darkblue;
+    font-family: cursive;
+    text-align: center;
+}
+
+nav {
+    background-color: rosybrown;
+    color:white;
+    font-family:monospace;
+    font-weight: 100;
+}
+
+
+
+body {
+    background-color:mistyrose;
+}
+
+div {
+    border: 20px white;
+}
+
+#mm {
+    border-radius: 50%;
+    width: 40%;
+    border-style:inset;
+    border-color: gainsboro;
+    float: right;
+}
+
+#ff {
+    border-style: groove;
+    border-width: 5px;
+    border-color: gainsboro;
+    align-items: center;
+}
+
+#aaa {
+    border-style: groove;
+    border-width: 5px;
+    border-color: gainsboro;
+    }
+
+#ggg {
+    border-style: groove;
+    border-width: 5px;
+    border-color: gainsboro;
+}
+a {
+    color: white;
+}
+
+p {
+    background-color:rosybrown;
+    border-style: groove;
+    color: white;
+    font-family: monospace;
+}
+
+h2 {
+    color: black;
+    font-family: initial;
+    text-align: center;
+    
+}
