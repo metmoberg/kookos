@@ -1,0 +1,56 @@
+nav {
+    background-color: rosybrown;
+    color:white;
+    font-family:monospace;
+    font-weight: 100;
+}
+
+h1 {
+    color: darkblue;
+    font-family: cursive;
+    text-align: center;
+}
+
+body {
+    background-color:mistyrose;
+}
+
+h2 {
+    color: black;
+    font-family: initial;
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+#me {
+    border: paleturquoise;
+    border-style: double;
+    border-width: 10px;
+}
+
+#mo {
+    border: palegoldenrod;
+    border-style: double;
+    border-width: 10px;
+    align-items: left;
+}
+
+#teksti1 {
+    border-style: double;
+    text-align: center
+}
+
+#mi {
+    border: palegreen;
+    border-style: double;
+    border-width: 10px;
+}
+
+#mu {
+    border: palevioletred;
+    border-style: double;
+    border-width: 10px;
+}
