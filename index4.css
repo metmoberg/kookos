@@ -48,6 +48,7 @@ a {
     border: palegreen;
     border-style: double;
     border-width: 10px;
+    align-items: flex-end;
 }
 
 #mu {
@@ -58,4 +59,19 @@ a {
 
 li {
     display: inline;
+}
+
+#rep {
+    border-color: black;
+    border-style: double;
+}
+
+#er {
+    border-style: double;
+    border-color: black;
+}
+
+#dr {
+    border-color: black;
+    border-style: double;
 }
