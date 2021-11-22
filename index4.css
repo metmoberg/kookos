@@ -103,6 +103,113 @@ div {
   }
 
   #oop {
-      border-style: dashed;
-      border-color: darkblue;
+      border-style: dotted;
+      border-radius: 10%;
+      border-color: white;
+      border-width: 5px;
+  }
+
+  #hop {
+    border-style: dotted;
+    border-radius: 10%;
+    border-color: black;
+    border-width: 5px;
+  }
+
+  #ded {
+    border-style: dotted;
+    border-radius: 10%;
+    border-color: white;
+    border-width: 5px;
+  }
+
+  #lol {
+    border-style: dotted;
+    border-radius: 10%;
+    border-color: black;
+    border-width: 5px;
+  }
+
+  #bob {
+      border-style:double;
+      border-width: 5px;
+      border-color: black;
+      background-color: rosybrown;
+      color: white;
+      font-family: monospace;
+  }
+
+  #grr {
+    border-style:double;
+    border-width: 5px;
+    border-color:white;
+    background-color: rosybrown;
+    color: white;
+    font-family: monospace;
+  }
+
+  #eek {
+    border-style:double;
+    border-width: 5px;
+    border-color: white;
+    background-color: rosybrown;
+    color: white;
+    font-family: monospace;
+  }
+
+  #joo {
+    border-style:double;
+    border-width: 5px;
+    border-color: black;
+    background-color: rosybrown;
+    color: white;
+    font-family: monospace;
+  }
+
+  *{padding: 0; margin: 0; box-sizing: border-box;}
+  body{height: 900px;}
+  header {
+      background: url(https://cdn.pixabay.com/photo/2020/06/02/12/19/dog-digital-paper-5250754_1280.jpg);
+      text-align: center;
+      width: 100%;
+      height: auto;
+      background-size: cover;
+      background-attachment: fixed;
+      position: relative;
+      overflow: hidden;
+      border-radius:
+  }
+  header .overlay{
+      width: 100%;
+      height: 100%;
+      padding: 50px;
+      color: #FFF;
+      text-shadow: 1px 1px 1px #333;
+    background-image: linear-gradient( 135deg, #9f05ff69 10%, #fd5e086b 100%);
+      
+  }
+  
+  h1 {
+      font-family: 'Dancing Script', cursive;
+      font-size: 80px;
+      margin-bottom: 30px;
+  }
+  
+  h3, p {
+      font-family: 'Open Sans', sans-serif;
+      margin-bottom: 30px;
+  }
+  
+  button {
+      border: none;
+      outline: none;
+      padding: 10px 20px;
+      border-radius: 50px;
+      color: #333;
+      background: #fff;
+      margin-bottom: 50px;
+      box-shadow: 0 3px 20px 0 #0000003b;
+  }
+  button:hover{
+      cursor: pointer;
   }
