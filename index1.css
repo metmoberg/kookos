@@ -64,3 +64,52 @@ h2 {
     text-align: center;
     
 }
+
+
+*{padding: 0; margin: 0; box-sizing: border-box;}
+body{height: 900px;}
+header {
+    background: url(https://cdn.pixabay.com/photo/2020/06/02/12/19/dog-digital-paper-5250754_1280.jpg);
+    text-align: center;
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    overflow: hidden;
+    border-radius:
+}
+header .overlay{
+    width: 100%;
+    height: 100%;
+    padding: 50px;
+    color: #FFF;
+    text-shadow: 1px 1px 1px #333;
+  background-image: linear-gradient( 135deg, #ffffff 10%, #ff7ae26b 100%);
+    
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
+    margin-bottom: 30px;
+}
+
+h3, p {
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 30px;
+}
+
+button {
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    border-radius: 50px;
+    color: #333;
+    background: #fff;
+    margin-bottom: 50px;
+    box-shadow: 0 3px 20px 0 #0000003b;
+}
+button:hover{
+    cursor: pointer;
+}
