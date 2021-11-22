@@ -75,3 +75,34 @@ li {
     border-color: black;
     border-style: double;
 }
+
+#ttt {
+    font-family: monospace;
+}
+
+div {
+   
+}
+
+#erer {
+    border-style: double;
+    border-width: thick;
+}
+
+#of {
+    font-family:monospace;
+    width: 60%;
+    border-style: double;
+    background-color: white;
+}
+
+.responsive {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+  }
+
+  #oop {
+      border-style: dashed;
+      border-color: darkblue;
+  }
