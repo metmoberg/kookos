@@ -1,0 +1,23 @@
+body {
+    background-color: lightcyan;
+}
+
+h1 {
+    color: black;
+    font-family: cursive;
+    text-align: center;
+}
+
+a {
+    color: black;
+    
+}
+
+a:hover {
+    color: lightpink;
+}
+
+button {
+    background-color: white;
+    border-color: palevioletred;
+}
