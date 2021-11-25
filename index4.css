@@ -276,28 +276,11 @@ div {
     text-decoration: none;
     color: black;
   }
-  
-  #eka {
-    width: 100%;
-  }
 
-  #toka {
-    width: 100%;
-    display: block;
-    height: auto;
-  }
-
-  #kolmas {
-    width: 100%;
-  }
-
-  #neljas {
-    width: 100%;
-  }
 
   .image {
     position: relative;
-    width: 300px;
+    width: 250px;
   }
 
   .image__img {
@@ -337,3 +320,7 @@ div {
     font-size: 1.25em;
     margin-top: 0.25em;
   }
+
+
+}
+
