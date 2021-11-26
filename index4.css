@@ -322,5 +322,16 @@ div {
   }
 
 
+
+
+.container .box {
+  position: relative;
+  width: 275px;
+  height: 275px;
+  overflow: hidden;
+  transition: 0,5s;
 }
 
+#neljas {
+  float:right;
+}
