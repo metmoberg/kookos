@@ -13,6 +13,10 @@ h1 {
 
 body {
     background-color:mistyrose;
+justify-content: center;
+ align-items: center;
+   
+
 }
 
 h2 {
@@ -281,10 +285,13 @@ div {
   .image {
     position: relative;
     width: 250px;
+    border-color: rosybrown;
+    border-style: double;
+    border-width: 2px;
   }
 
   .image__img {
-    display: block;
+    
     width: 100%;
   }
 
@@ -296,7 +303,7 @@ div {
     height: 100%;
     background: rgba(0, 0, 0, 0.6);
     color: white;
-    display: flex;
+    
     font-family:monospace;
     flex-direction: column;
     align-self: center;
@@ -304,6 +311,22 @@ div {
     text-align: center;
     opacity: 0;
     transition: opacity 0.25s;
+  }
+
+  .float-left-child {
+    float: right;
+  }
+
+  .float-right-child {
+    float:right;
+  }
+
+  .float-end-child {
+    float: left;
+  }
+
+  .float-center-child {
+    float:inherit;
   }
 
   .image__overlay:hover {
@@ -321,17 +344,8 @@ div {
     margin-top: 0.25em;
   }
 
-
-
-
-.container .box {
-  position: relative;
-  width: 275px;
-  height: 275px;
-  overflow: hidden;
-  transition: 0,5s;
-}
-
-#neljas {
-  float:right;
-}
+.teksti {
+color: white;
+background-color: rosybrown;
+font-size: 25px;
+font-family: monospace;

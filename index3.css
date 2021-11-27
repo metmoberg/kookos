@@ -59,6 +59,8 @@ h2 {
     border-color: black;
     border-width: 5px;
     color: white;
+    font-size: 20px;
+    font-family: monospace;
 }
 
 
@@ -180,4 +182,12 @@ h3, p {
     }
   }
 
-  
+.täytä {
+  background-color: rosybrown;
+  color: white;
+  border-style: double;
+  border-color: black;
+  border-width: 5px;
+  height: 200px;
+  font-family: monospace;
+}
