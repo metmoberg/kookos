@@ -17,7 +17,7 @@ a:hover {
     color: lightpink;
 }
 
-button {
+.button {
     background-color: white;
     border-color: palevioletred;
 }
@@ -34,4 +34,12 @@ button {
     height: 275px;
     overflow: hidden;
     transition: 0,5s;
+}
+
+.float-center-child {
+float: center;
+}
+ 
+.parent {
+    text-align: center;
 }
