@@ -23,15 +23,15 @@ body {
 
 #grr {
     border-color:black;
-    border-style: dotted;
-    border-width: 5px;
+    border-style: double;
+    border-width: 10px;
     background-color: white;
 }
 
 #bob {
-  border: 5px;
+  border: 10px;
     border-color:black;
-    border-style:dotted;
+    border-style:double;
     background-color: white;
 }
     
@@ -50,7 +50,7 @@ body {
 #eek {
     background-color: white;
     border-color:   black;
-    border: dotted 5px
+    border: double 10px
 
 }
 
@@ -133,8 +133,6 @@ h3, p {
     border-radius: 1000px;
     min-width: calc(100px + 12px);
     min-height: calc(30px + 12px);
-    border: 6px solid red;
-    box-shadow: 0 0 60px red (0,255,203,.64);
     position: absolute;
     top: 50%;
     left: 50%;
@@ -165,20 +163,4 @@ h3, p {
     animation: ring 1.5s infinite;
   }
   
-  button:hover::after, button:focus::after {
-    animation: none;
-    display: none;
-  }
   
-  @keyframes ring {
-    0% {
-      width: 30px;
-      height: 30px;
-      opacity: 1;
-    }
-    100% {
-      width: 300px;
-      height: 300px;
-      opacity: 0;
-    }
-  }
